@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">🔹 Tech Stack: Passionate about Python, Flutter, Node.js, and Java, always exploring new technologies.<br><br>📱 Focus Area: Currently working on mobile apps, turning ideas into functional and user-friendly applications.<br><br>🚀 Career Goal: Aspiring to become a skilled mobile developer, constantly learning and improving.<br><br>🎨⚽🎶 Beyond Code: When I’m not coding, I enjoy drawing, playing football, and listening to great music.</p>
+<p align="left">🔹 Tech Stack: Passionate about Python, Flutter, Node.js, and Java, always exploring new technologies.<br>📱 Focus Area: Currently working on mobile apps, turning ideas into functional and user-friendly applications.<br>🚀 Career Goal: Aspiring to become a skilled mobile developer, constantly learning and improving.<br>🎨⚽🎶 Beyond Code: When I’m not coding, I enjoy drawing, playing football, and listening to great music.</p>
 
 ###
 
