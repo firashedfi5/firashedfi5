@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **mobile development**
 
-- 📫 How to reach me **firshedfi4@gmail.com**
-
 - ⚡ Fun fact **I debug better with coffee ☕**
 
 <h3 align="left">Connect with me:</h3>
