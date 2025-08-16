@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Firas</h1>
-<h3 align="center">A passionate mobile developer from Tunisia</h3>
+<h3 align="center">A passionate Flutter developer from Tunisia</h3>
 
 - 🔭 I’m currently working on **building cross-platform mobile apps**
 
